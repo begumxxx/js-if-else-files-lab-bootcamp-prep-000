@@ -1,9 +1,9 @@
 var index = require("./index.js")
 
 if (index.name === "Susan") {
-    console.log("The name is not correct")
+    console.log("Received Joe")
 } else {
-    console.log(")
+    console.log("Expected Susan")
 }
 
 
